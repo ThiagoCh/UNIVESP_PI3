@@ -1,0 +1,70 @@
+.orcamentos-box{
+    background-color: rgb(100,90,200);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0px 40px 30px 40px;
+    border-radius: 30px;
+}
+.orcamentos-box h1{
+    color: white;
+    text-align: center;
+}
+.orcamentos-box input{
+    padding: 5px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+.orcamentos-button{
+    width: 288px;
+    margin: 0 auto;
+    padding: 2px;
+}
+.orcamentos-button button{
+    border: none;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 8px;
+    margin-right: 2px;
+    background-color: white;
+}
+.servicos-box{
+    background-color: rgb(100,90,200);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0px 40px 30px 40px;
+    border-radius: 30px;
+}
+.servicos-box h1{
+    color: white;
+    text-align: center;
+}
+.servicos-box input{
+    padding: 5px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+.servicos-button{
+    width: 273px;
+    margin: 0 auto;
+    padding: 2px;
+}
+.servicos-button button{
+    border: none;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 8px;
+    margin-right: 2px;
+    background-color: white;
+}
+button:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
